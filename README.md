@@ -13,17 +13,6 @@ Welcome to my GitHub! I'm a passionate software developer with expertise in web 
 - **Frameworks & Libraries:** Laravel, CodeIgniter, Vue.js, React.js, Flutter, Bootstrap
 - **Web Development Skills:** HTML, CSS, CSS3, JavaScript, WordPress, Joomla, Drupal
 - **Database Management:** SQL Server
-- **Video Editing & Streaming Tools:** Adobe Photoshop, PowerDirector, vMix, OBS Studio
-- **Networking & Hardware Troubleshooting:** Network installation/configuration, hardware diagnostics
-
----
-
-## 📈 Professional Experience
-
-- **Darasa** (July 2023 – Present): Software Developer
-- **Crownwebb Technologies** (Apr 2020 – Jun 2023): Network installation, Hardware troubleshooting, Web/Mobile apps development, Open EMR Installation
-- **RIVATEX (MU Technologies)** (Oct 2019 – Dec 2019): Assembly Line Operator
-- **Nehema Institute** (Jan 2019 – Sep 2019): ICT Tutor
 
 ---
 
