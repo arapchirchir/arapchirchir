@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate software developer with expertise in web 
 
 Here are some of the websites I have developed:
 
-- [Kenya Diaspora Health Center](https://kdhc.co.ke)
+- [Kenya Diaspora Homecoming Convention](https://kdhc.co.ke)
 - [Darasa (Admin Portal)](https://admin.darasa.app)
 - [Darasa (Main Site)](https://darasa.app)
 - [Common Good Institute](https://commongood-institute.org)
