@@ -46,4 +46,14 @@ Here are some of the websites I have developed:
 - **Website:** [Website](https://techworld.co.ke)
 - **Email:** [info@techworld.co.ke](info@techworld.co.ke)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arapchirchir&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arapchirchir&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arapchirchir&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arapchirchir&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arapchirchir&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Arap's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arapchirchir&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
