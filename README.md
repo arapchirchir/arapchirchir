@@ -10,9 +10,9 @@ Welcome to my GitHub! I'm a passionate software developer with expertise in web 
 
 ## 🌟 Key Skills
 
-- **Frameworks & Libraries:** Laravel, CodeIgniter, Vue.js, React.js, Flutter, Bootstrap
+- **Frameworks & Libraries:** Laravel, Phoenix Framework, Vue.js, React.js, Flutter, Bootstrap
 - **Web Development Skills:** HTML, CSS, CSS3, JavaScript, WordPress, Joomla, Drupal
-- **Database Management:** SQL Server
+- **Database Management:** SQL Server, PostgreSQL and MongoDB
 
 ---
 
