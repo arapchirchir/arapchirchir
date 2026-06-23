@@ -23,9 +23,10 @@ Here are some of the websites I have developed:
 - [Kenya Diaspora Homecoming Convention](https://kdhc.co.ke)
 - [Darasa (Admin Portal)](https://admin.darasa.app)
 - [Darasa (Main Site)](https://darasa.app)
-- [Common Good Institute](https://commongood-institute.org)
-- [Talanta Computer School](https://talantacomputerschool.com)
-- [Timeline Success](https://timelinesuccessltd.com)
+- [Mopeck Investments](http://mopeckinvestments.co.ke/)
+- [Jade Communications](https://www.jadecommunications.co.ke/)
+- [Kenya Diaspora Homecoming Convention](https://kdhc.co.ke/)
+- [Imenti Tea Factory](https://imenti.letsy.co.ke/)
 
 ---
 
