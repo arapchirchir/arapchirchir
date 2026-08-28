@@ -26,7 +26,7 @@ Here are some of the websites I have developed:
 - [Mopeck Investments](http://mopeckinvestments.co.ke/)
 - [Jade Communications](https://www.jadecommunications.co.ke/)
 - [Kenya Diaspora Homecoming Convention](https://kdhc.co.ke/)
-- [Imenti Tea Factory](https://imenti.letsy.co.ke/)
+- [Imenti Tea Factory](https://imentitea.com/)
 
 ---
 
